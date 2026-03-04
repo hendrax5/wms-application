@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic-settings
+python-multipart
+openpyxl
+qrcode[pil]
+aiofiles
+paramiko
+apscheduler
